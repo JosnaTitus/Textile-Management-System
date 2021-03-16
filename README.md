@@ -1,4 +1,4 @@
-                                                         Textile Management-System
+                                                         Textile Management System
                                                                 
 The main goal of the project is to reduce the workload of the industry.
 It keeps track of every module like employees, products, etc.
